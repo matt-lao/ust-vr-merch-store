@@ -1,5 +1,5 @@
 # (Mock) VR Merchandise Store - University of St. Thomas 
-The following is documentation on the Mock VR Merchandise Store that was designed as part of an emerging technologies conference and was
+The following is documentation on the [Mock VR Merchandise Store](https://www.spatial.io/s/Shop-6243c62ac40e940001b4b203?share=8455234183693210692) that was designed as part of an emerging technologies conference and was
 presented to the Board of Governors at the Opus College of Business. 
 
 ### Getting Started
